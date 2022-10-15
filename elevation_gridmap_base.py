@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Lars Schilling
 
-"""
+
 import rospy
 import cv2
 from cv_bridge import CvBridge
